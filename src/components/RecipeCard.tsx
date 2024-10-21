@@ -19,7 +19,7 @@ const RecipeCard: React.FC<RecipeCardProps> = ({ recipe }) => {
       transition="all 0.3s"
       _hover={{ transform: 'scale(1.05)', boxShadow: 'lg' }}
     >
-      <Image src={`/images/${recipe.image}`} alt={recipe.name} height="200px" objectFit="cover" width="100%" />
+      <Image src={`/kochrezepte/images/${recipe.image}`} alt={recipe.name} height="200px" objectFit="cover" width="100%" />
       <VStack p={4} align="start" spacing={2}>
         <Text fontWeight="bold" fontSize="xl" color="brand.600">
           {recipe.name}

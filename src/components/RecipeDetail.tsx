@@ -29,7 +29,7 @@ const RecipeDetail: React.FC = () => {
       <Button leftIcon={<ChevronLeftIcon />} onClick={() => navigate(-1)} mb={4} colorScheme="orange">
         Zurück
       </Button>
-      <Image src={`/images/${recipe.image}`} alt={recipe.name} width="100%" borderRadius="lg" mb={6} />
+      <Image src={`/kochrezepte/images/${recipe.image}`} alt={recipe.name} width="100%" borderRadius="lg" mb={6} />
       <VStack align="start" spacing={6}>
         <Heading as="h1" size="2xl" color="brand.600">
           {recipe.name}
