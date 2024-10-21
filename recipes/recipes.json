@@ -1,0 +1,77 @@
+[
+  {
+    "id": "3",
+    "name": "Radieschen-Risotto",
+    "preparationTime": 40,
+    "ingredients": [
+      {
+        "name": "Risottoreis",
+        "amount": 400.0,
+        "unit": "g"
+      },
+      {
+        "name": "Radieschen",
+        "amount": 2.0,
+        "unit": "B\u00fcnde"
+      },
+      {
+        "name": "Blauschimmelk\u00e4se",
+        "amount": 100.0,
+        "unit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 2.0,
+        "unit": "Stk."
+      },
+      {
+        "name": "Gem\u00fcsesuppenw\u00fcrfel",
+        "amount": 2.0,
+        "unit": "Stk."
+      },
+      {
+        "name": "Knoblauch",
+        "amount": 2.0,
+        "unit": "Zehen"
+      },
+      {
+        "name": "Schutzengel Gew\u00fcrz",
+        "amount": 2.0,
+        "unit": "EL"
+      },
+      {
+        "name": "Wasser",
+        "amount": 1800.0,
+        "unit": "ml"
+      },
+      {
+        "name": "Butter",
+        "amount": 2.0,
+        "unit": "EL"
+      },
+      {
+        "name": "Salz",
+        "amount": 1.0,
+        "unit": "Prise"
+      },
+      {
+        "name": "Pfeffer",
+        "amount": 1.0,
+        "unit": "Prise"
+      }
+    ],
+    "instructions": [
+      "Wasser mit Gem\u00fcsesuppenw\u00fcrfel zum Kochen bringen.",
+      "Zwiebel/Knoblauch fein hacken.",
+      "Zwiebel in Olivenoel glasig d\u00fcnsten und f\u00fcr 2 min Knoblauch dazu.",
+      "Risottoreis 1-2 minuten dazu.",
+      "1/3 der Suppe abl\u00f6schen.",
+      "Bei mittlerer Hitze Fl\u00fcssigkeit nahezu verkochen( dabei \u00f6ffter umr\u00fchren)",
+      "Anschlie\u00dfend der rest  der Suppe nach und nach zugie\u00dfen (ca.20 bis 30min)",
+      "Radieschen Waschen und d\u00fcnne Scheiben schneiden",
+      "Wenn Fluessigkeit verkocht ist Butter und Kaese unterr\u00fchren.",
+      "Radieschen und Gew\u00fcrz unterruehren und ca 3min Kochen."
+    ],
+    "image": "radieschen-risotto.webp"
+  }
+]
