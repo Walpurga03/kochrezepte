@@ -85,6 +85,10 @@ Das Design der Anwendung kann durch Änderung der Theme-Konfiguration in `src/th
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Details finden Sie in der [LICENSE](LICENSE) Datei.
 
+## 🤝 Beitragen
+
+Als Open-Source-Projekt freuen wir uns über Beiträge jeder Art! Ob Sie Fehler melden, neue Funktionen vorschlagen oder Pull Requests einreichen möchten - Ihre Mitarbeit ist willkommen.
+
 ## 📞 Kontakt
 
 Bei Fragen oder Anregungen können Sie mich über Nostr kontaktieren:
