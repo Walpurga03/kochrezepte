@@ -1,50 +1,98 @@
-# React + TypeScript + Vite
+# Kochrezepte App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Eine moderne Web-Anwendung zur Verwaltung und Anzeige von Kochrezepten, entwickelt mit React, TypeScript und Chakra UI.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📱 Responsive Design für Desktop und Mobile
+- 🖼️ Ansprechende Darstellung von Rezepten mit Bildern
+- 🔍 Detaillierte Ansicht für jedes Rezept
+- ⏱️ Anzeige der Zubereitungszeit
+- 📝 Auflistung von Zutaten und Zubereitungsschritten
+- 🎨 Anpassbares Farbschema mit Chakra UI
 
-## Expanding the ESLint configuration
+## 🛠️ Technologien
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- React
+- TypeScript
+- Chakra UI
+- React Router
+- Vite (als Build-Tool)
 
-- Configure the top-level `parserOptions` property like this:
+## 📁 Projektstruktur
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+```
+kochrezepte-app/
+│
+├── public/
+│   ├── images/         # Rezeptbilder
+│   └── recipes/        # JSON-Datei mit Rezeptdaten
+│
+├── src/
+│   ├── components/     # React-Komponenten
+│   ├── pages/          # Seitenkomponenten
+│   ├── types/          # TypeScript-Typdefinitionen
+│   ├── utils/          # Hilfsfunktionen (z.B. API-Aufrufe)
+│   ├── App.tsx         # Hauptkomponente
+│   ├── main.tsx        # Einstiegspunkt der Anwendung
+│   └── theme.ts        # Chakra UI Theme-Konfiguration
+│
+├── recipe_manager.py   # Python-Skript zur Rezeptverwaltung
+├── README.md           # Diese Datei
+├── package.json        # NPM-Paketdefinition
+└── tsconfig.json       # TypeScript-Konfiguration
 ```
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+## 🚀 Installation und Setup
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+1. Klonen Sie das Repository:
+   ```
+   git clone https://github.com/yourusername/kochrezepte-app.git
+   cd kochrezepte-app
+   ```
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
+2. Installieren Sie die Abhängigkeiten:
+   ```
+   npm install
+   ```
+
+3. Starten Sie den Entwicklungsserver:
+   ```
+   npm run dev
+   ```
+
+4. Öffnen Sie die Anwendung in Ihrem Browser unter `http://localhost:5173/kochrezepte`
+
+## 📝 Rezeptverwaltung
+
+Zur Verwaltung der Rezepte wird ein Python-Skript (`recipe_manager.py`) verwendet. Dieses Skript ermöglicht das Erstellen, Anzeigen, Aktualisieren und Löschen von Rezepten.
+
+Führen Sie das Skript aus, um Rezepte zu verwalten:
+
 ```
+python recipe_manager.py
+```
+
+## 🖼️ Hinzufügen von Bildern
+
+Platzieren Sie die Rezeptbilder im Verzeichnis `public/images/`. Stellen Sie sicher, dass der Dateiname des Bildes mit dem `image`-Feld im entsprechenden Rezept-JSON übereinstimmt.
+
+## 🎨 Anpassen des Designs
+
+Das Design der Anwendung kann durch Änderung der Theme-Konfiguration in `src/theme.ts` angepasst werden. Hier können Sie Farben, Schriftarten und andere Design-Elemente nach Ihren Wünschen ändern.
+
+## 🤝 Beitragen
+
+Beiträge sind willkommen! Bitte erstellen Sie einen Fork des Repositories und reichen Sie einen Pull Request mit Ihren Änderungen ein.
+
+## 📄 Lizenz
+
+Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Details finden Sie in der [LICENSE](LICENSE) Datei.
+
+## 📞 Kontakt
+
+Bei Fragen oder Anregungen erstellen Sie bitte ein Issue in diesem Repository oder kontaktieren Sie uns unter [Ihre Kontakt-E-Mail].
+
+---
+
+Viel Spaß beim Kochen und Genießen! 🍽️👨‍🍳👩‍🍳
