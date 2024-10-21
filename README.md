@@ -81,17 +81,23 @@ Platzieren Sie die Rezeptbilder im Verzeichnis `public/images/`. Stellen Sie sic
 
 Das Design der Anwendung kann durch Änderung der Theme-Konfiguration in `src/theme.ts` angepasst werden. Hier können Sie Farben, Schriftarten und andere Design-Elemente nach Ihren Wünschen ändern.
 
-## 🤝 Beitragen
-
-Beiträge sind willkommen! Bitte erstellen Sie einen Fork des Repositories und reichen Sie einen Pull Request mit Ihren Änderungen ein.
-
 ## 📄 Lizenz
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Details finden Sie in der [LICENSE](LICENSE) Datei.
 
 ## 📞 Kontakt
 
-Bei Fragen oder Anregungen erstellen Sie bitte ein Issue in diesem Repository oder kontaktieren Sie uns unter [Ihre Kontakt-E-Mail].
+Bei Fragen oder Anregungen können Sie mich über Nostr kontaktieren:
+
+npub: npub1hht9umpeet75w55uzs9lq6ksayfpcvl9lk64hye75j0yj4husq5ss8xsry
+
+## ⚡ Unterstützung
+
+Wenn Ihnen dieses Projekt gefällt und Sie meine Motivation stärken möchten, würde ich mich sehr über eine kleine Bitcoin Lightning Spende freuen:
+
+Lightning-Adresse: aldobarazutti@getalby.com
+
+Ihre Unterstützung hilft mir, dieses Projekt weiter zu verbessern und neue Features zu entwickeln. Vielen Dank für Ihre Großzügigkeit!
 
 ---
 
