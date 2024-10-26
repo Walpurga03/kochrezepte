@@ -151,10 +151,89 @@
       "Schübling schählen und in kleine Scheiben schneiden.",
       "500ml Gemüsebrühe aufkochen.",
       "Öl erhitzen, Zwiebel, Mehl, prise Salz mit hoher hitze hellbraun anbraten.",
-      "Mit der Brühe ablöschen Lorbeerblat dazun 10min aufkochen.",
+      "Mit der Brühe ablöschen Lorbeerblat dazu 10min aufkochen.",
       "Majoran, Liebstöckel, Petersilie und Schübling dazugeben.",
       "Kartoffeln dazugeben und 10min köcheln lassen.",
       "Mit Muskatnuss, Salz und Pfeffer abschmecken."
+    ],
+    "image": "einprennteHund.webp"
+  },
+  {
+    "id": "3",
+    "name": "Köttbullar",
+    "preparationTime": 45,
+    "ingredients": [
+      {
+        "name": "Kartoffeln",
+        "amount": 1,
+        "unit": "Stk"
+      },
+      {
+        "name": "Hackfleisch",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 2,
+        "unit": "Stk"
+      },
+      {
+        "name": "Paniermehl",
+        "amount": 4,
+        "unit": "EL"
+      },
+      {
+        "name": "Ei",
+        "amount": 1,
+        "unit": "Stk"
+      },
+      {
+        "name": "Salz",
+        "amount": 1,
+        "unit": "TL"
+      },
+      {
+        "name": "Weiser Pfeffer",
+        "amount": 1,
+        "unit": "TL"
+      },
+      {
+        "name": "Wasser",
+        "amount": 400,
+        "unit": "ml"
+      },
+      {
+        "name": "dunkle sossenbinder",
+        "amount": 1,
+        "unit": "EL"
+      },
+      {
+        "name": "Petersilie",
+        "amount": 1.0,
+        "unit": "EL"
+      },
+      {
+        "name": "Preiselbeere Marmelade",
+        "amount": 2,
+        "unit": "EL"
+      },
+      {
+        "name": "Salz/Pfeffer",
+        "amount": 1,
+        "unit": "Prise"
+      }
+    ],
+    "instructions": [
+      "Gekochte Kartoffel vom Vortag schälen und mit Gabel verdrücken.",
+      "Zwiebel schälen und fein hacken.",
+      "Hackfleisch, Kartoffel, hälfte der Zwiebel, Paniermehl, Petersilie, Ei, Salz und Pfeffer in einer Schüssel vermischen.",
+      "Knödel formen",
+      "Öl in Pfanne erhitzen und Köttbullar ca 10min rundherum anbraten.",
+      "Rest der Zwiebeln in Pfanne anbraten, mit Wasser ablöschen und Sossenbinder einrühren.",
+      "Bällchen, Sahne, Preiselbeeren Marmelade unterrühren ca 5min köcheln.",
+      "Salz/Pfeffer abschmecken und.",
+      "Kartoffelpüree dazu servieren."
     ],
     "image": "einprennteHund.webp"
   }
