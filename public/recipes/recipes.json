@@ -199,6 +199,11 @@
         "unit": "TL"
       },
       {
+        "name": "Sahne",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
         "name": "Wasser",
         "amount": 400,
         "unit": "ml"
@@ -235,6 +240,6 @@
       "Salz/Pfeffer abschmecken und.",
       "Kartoffelpüree dazu servieren."
     ],
-    "image": "einprennteHund.webp"
+    "image": "köttbullar.webp"
   }
 ]
