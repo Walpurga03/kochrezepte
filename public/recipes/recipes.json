@@ -77,11 +77,11 @@
       "Sobald die Flüssigkeit eingekocht ist, Butter und Käse unterrühren.",
       "Die Radieschen und Gewürze dazugeben und alles für etwa 3 Minuten köcheln lassen."
     ],
-    "image": "radieschen-risotto.webp"
+    "image": "radieschenRisotto.webp"
   },
   {
     "id": "2",
-    "name": "Einbrennte Hunde",
+    "name": "Einbrennte Hund",
     "preparationTime": 30,
     "ingredients": [
       {
@@ -115,11 +115,6 @@
         "unit": "EL"
       },
       {
-        "name": "Salz/Pfeffer",
-        "amount": 1,
-        "unit": "Prise"
-      },
-      {
         "name": "Majoran",
         "amount": 1,
         "unit": "EL"
@@ -143,20 +138,24 @@
         "name": "Muskatnuss",
         "amount": 1.0,
         "unit": "Prise"
+      },
+      {
+        "name": "Salz/Pfeffer",
+        "amount": 1,
+        "unit": "Prise"
       }
     ],
     "instructions": [
-      "Wasser mit einem Gemüsebrühwürfel zum Kochen bringen.",
-      "Zwiebel und Knoblauch fein hacken.",
-      "Zwiebel in Olivenöl glasig dünsten, dann den Knoblauch hinzufügen und für 2 Minuten mitdünsten.",
-      "Den Risottoreis hinzufügen und 1–2 Minuten unter Rühren anrösten.",
-      "Mit einem Drittel der Brühe ablöschen.",
-      "Bei mittlerer Hitze die Flüssigkeit unter gelegentlichem Rühren fast vollständig einkochen lassen.",
-      "Nach und nach die restliche Brühe zugießen und das Risotto etwa 20–30 Minuten köcheln lassen, bis der Reis gar ist.",
-      "Währenddessen die Radieschen waschen und in dünne Scheiben schneiden.",
-      "Sobald die Flüssigkeit eingekocht ist, Butter und Käse unterrühren.",
-      "Die Radieschen und Gewürze dazugeben und alles für etwa 3 Minuten köcheln lassen."
+      "Kartoffeln schälen und in Scheiben schneiden und in Salzwasser 10min kochen, absieben.",
+      "Zwiebel schälen und in Würfel schneiden.",
+      "Schübling schählen und in kleine Stücke schneiden.",
+      "500ml Gemüsebrühe 10min aufkochen.",
+      "Öl erhitzen, Zwiebel, Mehl, prise Salz mit hoher hitze hellbraun anbraten.",
+      "Mit der Brühe ablöschen Lorbeerblat dazun und aufkochen.",
+      "Majoran, Liebstöckel, Petersilie und Schübling dazugeben.",
+      "Kartoffeln dazugeben und 10min köcheln lassen.",
+      "Mit Muskatnuss, Salz und Pfeffer abschmecken."
     ],
-    "image": "radieschen-risotto.webp"
+    "image": "einprennteHund.webp"
   }
 ]
