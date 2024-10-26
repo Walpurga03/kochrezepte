@@ -77,6 +77,85 @@
       "Sobald die Flüssigkeit eingekocht ist, Butter und Käse unterrühren.",
       "Die Radieschen und Gewürze dazugeben und alles für etwa 3 Minuten köcheln lassen."
     ],
-    "image": "radieschen-risotto.webp"
+    "image": "radieschenRisotto.webp"
+  },
+  {
+    "id": "2",
+    "name": "Einbrennte Hund",
+    "preparationTime": 30,
+    "ingredients": [
+      {
+        "name": "Kartoffeln-speckig",
+        "amount": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "Schübling",
+        "amount": 2.0,
+        "unit": "Stk"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "amount": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1.0,
+        "unit": "Stk"
+      },
+      {
+        "name": "Öl",
+        "amount": 2.0,
+        "unit": "EL"
+      },
+      {
+        "name": "Mehl",
+        "amount": 2.0,
+        "unit": "EL"
+      },
+      {
+        "name": "Majoran",
+        "amount": 1,
+        "unit": "EL"
+      },
+      {
+        "name": "Lorbeerblatt",
+        "amount": 2.0,
+        "unit": "Stk"
+      },
+      {
+        "name": "Liebstöckel",
+        "amount": 1,
+        "unit": "EL"
+      },
+      {
+        "name": "Petersilie",
+        "amount": 1.0,
+        "unit": "EL"
+      },
+      {
+        "name": "Muskatnuss",
+        "amount": 1.0,
+        "unit": "Prise"
+      },
+      {
+        "name": "Salz/Pfeffer",
+        "amount": 1,
+        "unit": "Prise"
+      }
+    ],
+    "instructions": [
+      "Kartoffeln schälen und in Scheiben schneiden und in Salzwasser 10min kochen, absieben.",
+      "Zwiebel schälen und in Würfel schneiden.",
+      "Schübling schählen und in kleine Stücke schneiden.",
+      "500ml Gemüsebrühe 10min aufkochen.",
+      "Öl erhitzen, Zwiebel, Mehl, prise Salz mit hoher hitze hellbraun anbraten.",
+      "Mit der Brühe ablöschen Lorbeerblat dazun und aufkochen.",
+      "Majoran, Liebstöckel, Petersilie und Schübling dazugeben.",
+      "Kartoffeln dazugeben und 10min köcheln lassen.",
+      "Mit Muskatnuss, Salz und Pfeffer abschmecken."
+    ],
+    "image": "einprennteHund.webp"
   }
 ]
