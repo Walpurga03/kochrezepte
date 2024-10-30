@@ -241,5 +241,56 @@
       "Kartoffelpüree dazu servieren."
     ],
     "image": "köttbullar.webp"
+  },
+  {
+    "id": "4",
+    "name": "Apfel-Tarte",
+    "preparationTime": 60,
+    "ingredients": [
+      {
+        "name": "Blätterteig",
+        "amount": 1,
+        "unit": "Stk"
+      },
+      {
+        "name": "Äpfel",
+        "amount": 2,
+        "unit": "Stk"
+      },
+      {
+        "name": "Butter",
+        "amount": 2,
+        "unit": "EL"
+      },
+      {
+        "name": "Mandeln gemahlen",
+        "amount": 2,
+        "unit": "EL"
+      },
+      {
+        "name": "Zucker",
+        "amount": 2,
+        "unit": "EL"
+      },
+      {
+        "name": "Schlagsahne",
+        "amount": 100,
+        "unit": "ml"
+      },
+      {
+        "name": "Weichkaramell-Bonbons",
+        "amount": 50,
+        "unit": "g"
+      }
+    ],
+    "instructions": [
+      "Blätterteig in eine Tarteform legen.",
+      "Äpfel entkernen, in Spalten schneiden und mit einem Gurkenhobel in dünne Scheiben schneiden.",
+      "Der Boden mit Mandeln bestreut und Äpfel hinauf legen.",
+      "Geschmolzene Butter über die Äpfel gießen und mit Zucker bestreuen.",
+      "Bei 175 °C Umluft etwa 40 Minuten backen.",
+      "Karamell-Sahne herstellen, indem Schlagsahne mit Karamellbonbons geschmolzen wird, und die fertige Tarte damit überziehen."
+    ],
+    "image": "apfelTarte.webp"
   }
 ]
