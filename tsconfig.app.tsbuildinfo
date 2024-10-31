@@ -1,1 +1,1 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/theme.ts","./src/vite-env.d.ts","./src/components/recipecard.tsx","./src/components/recipedetail.tsx","./src/components/recipelist.tsx","./src/pages/home.tsx","./src/types/recipe.ts","./src/utils/api.ts"],"version":"5.6.3"}
+{"root":["./src/App.tsx","./src/main.tsx","./src/theme.ts","./src/vite-env.d.ts","./src/components/RecipeCard.tsx","./src/components/RecipeDetail.tsx","./src/components/RecipeList.tsx","./src/pages/Home.tsx","./src/types/Recipe.ts","./src/utils/api.ts"],"version":"5.6.3"}

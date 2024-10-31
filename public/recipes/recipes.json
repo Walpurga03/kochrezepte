@@ -292,5 +292,107 @@
       "Karamell-Sahne herstellen, indem Schlagsahne mit Karamellbonbons geschmolzen wird, und die fertige Tarte damit überziehen."
     ],
     "image": "apfelTarte.webp"
+  },
+  {
+    "id": "5",
+    "name": "Pizza",
+    "preparationTime": 45,
+    "ingredients": [
+      {
+        "name": "Mehl",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "Milch",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "Oliven-Öl",
+        "amount": 4,
+        "unit": "EL"
+      },
+      {
+        "name": "Salz",
+        "amount": 1,
+        "unit": "TL"
+      },
+      {
+        "name": "Backpulver",
+        "amount": 2,
+        "unit": "TL"
+      },
+      {
+        "name": "Tomaten-passiert",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Tomatenmark",
+        "amount": 3,
+        "unit": "EL"
+      },
+      {
+        "name": "Paprikapulver",
+        "amount": 1,
+        "unit": "TL"
+      },
+      {
+        "name": "Zucker",
+        "amount": 0.5,
+        "unit": "TL"
+      },
+      {
+        "name": "Zitrone",
+        "amount": 0.5,
+        "unit": "Stk"
+      },
+      {
+        "name": "Oregano",
+        "amount": 1,
+        "unit": "TL"
+      },
+      {
+        "name": "Salz",
+        "amount": 1,
+        "unit": "TL"
+      },
+      {
+        "name": "Pfeffer",
+        "amount": 1,
+        "unit": "TL"
+      },
+      {
+        "name": "Chilli-Flocken",
+        "amount": 1,
+        "unit": "TL"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "amount": 2,
+        "unit": "Zehen"
+      },
+      {
+        "name": "Lorbeerblatt",
+        "amount": 1,
+        "unit": "Stk"
+      }
+    ],
+    "instructions": [
+      "Mehl mit Backpulver und Salz mischen.",
+      "Milch und Oliven-Öl hinzufügen und zu einem Teig verkneten.(ca 10min rasten lassen)",
+      "Dann auf Backpapier ausrollen.",
+      "Im Topf das Öl erhitzen und Zwiebel, Knoblauch und Lorbeerblatt anbraten.",
+      "Tomaten, gewürze und Zitrone hinzufügen und 10/20min köcheln lassen.",
+      "Lorbeerblat heraus und mit dem Stabmixer pürieren.",
+      "Nach wunsch belegen und ca 15-20min bei 220°C Heisluft backen."
+    ],
+    "image": "pizza.webp"
   }
 ]
