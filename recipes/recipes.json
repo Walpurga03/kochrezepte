@@ -394,5 +394,76 @@
       "Nach wunsch belegen und ca 15-20min bei 220°C Heisluft backen."
     ],
     "image": "pizza.webp"
+  },
+  {
+    "id": "6",
+    "name": "Kartoffelroulade",
+    "preparationTime": 60,
+    "ingredients": [
+      {
+        "name": "Kartoffeln",
+        "amount": 4,
+        "unit": "Stk"
+      },
+      {
+        "name": "Karotten",
+        "amount": 3,
+        "unit": "Stk"
+      },
+      {
+        "name": "Kräuterfrischkäse",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Käsescheiben",
+        "amount": 4,
+        "unit": "Stk"
+      },
+      {
+        "name": "Schinken",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Schnittlauch",
+        "amount": 1,
+        "unit": "EL"
+      },
+      {
+        "name": "Knoblauchgranulat",
+        "amount": 1,
+        "unit": "TL"
+      },
+      {
+        "name": "Muskatnuss",
+        "amount": 1,
+        "unit": "Prise"
+      },
+      {
+        "name": "Ei",
+        "amount": 3,
+        "unit": "Stk"
+      },
+      {
+        "name": "Salz/Pfeffer",
+        "amount": 1,
+        "unit": "Prise"
+      },
+      {
+        "name": "Parmesan-Gerieben",
+        "amount": 4,
+        "unit": "El"
+      }
+    ],
+    "instructions": [
+      "Kartoffeln (roh) fein reiben und gut ausdrücken.",
+      "Karotten grob raspeln.",
+      "Kartoffeln, Karotten, Eier, Parmesan, Knoblauchgranulat,Schnittlauch, Salz, Pfeffer und Muskatnuss vermischen.",
+      "Auf ein Backpapier verteilen und bei 180°C Heißluft 30min backen.",
+      "Frischkäse auf die Roulade streichen und Schinken verteilen.",
+      "Langsam einrollen mit Käsescheiben belegen nochmals 15min backen."
+    ],
+    "image": "kartoffelroulade.webp"
   }
 ]
