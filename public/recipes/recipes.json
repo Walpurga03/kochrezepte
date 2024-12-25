@@ -394,5 +394,146 @@
       "Nach wunsch belegen und ca 15-20min bei 220°C Heisluft backen."
     ],
     "image": "pizza.webp"
+  },
+  {
+    "id": "6",
+    "name": "Kartoffelroulade",
+    "preparationTime": 60,
+    "ingredients": [
+      {
+        "name": "Kartoffeln",
+        "amount": 4,
+        "unit": "Stk"
+      },
+      {
+        "name": "Karotten",
+        "amount": 3,
+        "unit": "Stk"
+      },
+      {
+        "name": "Kräuterfrischkäse",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "Käsescheiben",
+        "amount": 4,
+        "unit": "Stk"
+      },
+      {
+        "name": "Schinken",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Schnittlauch",
+        "amount": 1,
+        "unit": "EL"
+      },
+      {
+        "name": "Knoblauchpulver",
+        "amount": 1,
+        "unit": "TL"
+      },
+      {
+        "name": "Muskatnuss",
+        "amount": 1,
+        "unit": "Prise"
+      },
+      {
+        "name": "Ei",
+        "amount": 3,
+        "unit": "Stk"
+      },
+      {
+        "name": "Salz/Pfeffer",
+        "amount": 1,
+        "unit": "Prise"
+      },
+      {
+        "name": "Parmesan-Geriebener",
+        "amount": 4,
+        "unit": "TL"
+      }
+    ],
+    "instructions": [
+      "Kartoffeln (roh) fein reiben und gut ausdrücken.",
+      "Karotten grob raspeln.",
+      "Kartoffeln, Karotten, Eier, Parmesan, Knoblauchgranulat,Schnittlauch, Salz, Pfeffer und Muskatnuss vermischen.",
+      "Auf ein Backpapier verteilen und bei 180°C Heißluft 30min backen.",
+      "Frischkäse auf die Roulade streichen und Schinken verteilen.",
+      "Langsam einrollen mit Käsescheiben belegen nochmals 15min backen."
+    ],
+    "image": "kartoffelroulade.webp"
+  },
+  {
+    "id": "7",
+    "name": "Spinat-Spätzle",
+    "preparationTime": 30,
+    "ingredients": [
+      {
+        "name": "Passierte Spinat",
+        "amount": 300,
+        "unit": "ml"
+      },
+      {
+        "name": "Spätzle-Mehl",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Salz",
+        "amount": 1,
+        "unit": "TL"
+      },
+      {
+        "name": "Pfeffer",
+        "amount": 0.5,
+        "unit": "TL"
+      },
+      {
+        "name": "Knoblauchpulver",
+        "amount": 1,
+        "unit": "Prise"
+      },
+      {
+        "name": "Ei",
+        "amount": 2,
+        "unit": "Stk"
+      },
+      {
+        "name": "Schinken",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stk"
+      },
+      {
+        "name": "Sahne",
+        "amount": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "Butter",
+        "amount": 1,
+        "unit": "EL"
+      },
+      {
+        "name": "Vegeta",
+        "amount": 1,
+        "unit": "TL"
+      }
+    ],
+    "instructions": [
+      "Passierte Spinat (einwenig Warmes wasser dazu) mit Salz, Pfeffer, Knoblauchpulver, Ei und Spätzle-Mehl vermischen.",
+      "Den Teig Spätzle formen und in Salzwasser kochen.",
+      "Butter in einer Pfanne erhitzen und Schinken anbraten.",
+      "Sahne, Vegeta und Salz/Pfeffer dazu geben und 5min köcheln lassen.",
+      "Spätzle dazu, gut durchrühren."
+    ],
+    "image": "spinatSpätzle.webp"
   }
 ]
