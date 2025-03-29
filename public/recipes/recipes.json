@@ -535,5 +535,63 @@
       "Spätzle dazu, gut durchrühren."
     ],
     "image": "spinatSpätzle.webp"
+  },
+  {
+    "id": "8",
+    "name": "Shepards Pie",
+    "preparationTime": 45,
+    "ingredients": [
+      {
+        "name": "Hackfleisch",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Karotten",
+        "amount": 2,
+        "unit": "Stk"
+      },
+      {
+        "name": "Zwiebel",
+        "amount": 1,
+        "unit": "Stk"
+      },
+      {
+        "name": "Bratensauce",
+        "amount": 600,
+        "unit": "ml"
+      },
+      {
+        "name": "Kartoffelnpüree",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "Eidotter",
+        "amount": 1,
+        "unit": "Stk"
+      },
+      {
+        "name": "Petersilie",
+        "amount": 1,
+        "unit": "Prise"
+      },
+      {
+        "name": "Salz/Pfeffer",
+        "amount": 1,
+        "unit": "Prise"
+      }
+    ],
+    "instructions": [
+      "Zwiebel und Karotten klein schneiden.",
+      "Hackfleisch in einer Pfanne anbraten, Zwiebel und Karotten dazu geben und mit Bratensauce ablöschen.",
+      "Mit Petersilie, Salz und Pfeffer würzen.",
+      "Saft absieben und zurück in die Pfanne geben.",
+      "Hackflleisch in eine Auflaufform geben und mit Kartoffelpüree bedecken.",
+      "Mit Eidotter Püree einpinseln.",
+      "Im Backrohr bei 220°C ca 20min backen.",
+      "Soße ca.5min wieder erwärmem."
+    ],
+    "image": "shepardsPie.png"
   }
 ]
