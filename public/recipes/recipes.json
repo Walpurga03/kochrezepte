@@ -572,9 +572,9 @@
         "unit": "Stk"
       },
       {
-        "name": "Petersilie",
-        "amount": 1,
-        "unit": "Prise"
+        "name": "Erbsen",
+        "amount": 30,
+        "unit": "g"
       },
       {
         "name": "Salz/Pfeffer",
@@ -585,11 +585,11 @@
     "instructions": [
       "Zwiebel und Karotten klein schneiden.",
       "Hackfleisch in einer Pfanne anbraten, Zwiebel und Karotten dazu geben und mit Bratensauce ablöschen.",
-      "Mit Petersilie, Salz und Pfeffer würzen.",
+      "Mit Salz und Pfeffer würzen und die Erbsen dazu.",
       "Saft absieben und zurück in die Pfanne geben.",
       "Hackflleisch in eine Auflaufform geben und mit Kartoffelpüree bedecken.",
       "Mit Eidotter Püree einpinseln.",
-      "Im Backrohr bei 220°C ca 20min backen.",
+      "Im Backrohr bei 220°C ca 15min backen.",
       "Soße ca.5min wieder erwärmem."
     ],
     "image": "shepardsPie.png"
