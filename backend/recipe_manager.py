@@ -2,8 +2,13 @@ import json
 import os
 import re
 
-RECIPES_FILE = '/home/linux/projects/kochrezepte-app/public/recipes/recipes.json'
-IMAGES_DIR = '/home/linux/projects/kochrezepte-app/public/images'
+# Determine the directory of the current script
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+# Construct paths relative to the script's parent directory (project root)
+PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
+
+RECIPES_FILE = os.path.join(PROJECT_ROOT, 'public', 'recipes', 'recipes.json')
+IMAGES_DIR = os.path.join(PROJECT_ROOT, 'public', 'images')
 
 def ensure_directories_exist():
     os.makedirs(os.path.dirname(RECIPES_FILE), exist_ok=True)

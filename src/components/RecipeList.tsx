@@ -9,7 +9,7 @@ interface RecipeListProps {
 
 const RecipeList: React.FC<RecipeListProps> = ({ recipes }) => {
   return (
-    <SimpleGrid columns={[1, 2, 3]} spacing="40px">
+    <SimpleGrid columns={[1, 2, 3]} spacing="gridGap"> {/* Theme-Token verwenden */}
       {recipes.map(recipe => (
         <RecipeCard key={recipe.id} recipe={recipe} />
       ))}

@@ -16,13 +16,8 @@ const RecipeCard: React.FC<RecipeCardProps> = ({ recipe }) => {
     <Box
       as={Link}
       to={`/recipe/${recipe.id}`}
-      borderWidth="1px"
-      borderRadius="lg"
-      overflow="hidden"
-      boxShadow="md"
-      transition="all 0.3s"
-      _hover={{ transform: 'scale(1.05)', boxShadow: 'lg' }}
-      width="100%"
+      className="recipe-card-custom" // SCSS-Klasse hier hinzufügen
+      width="100%" // Kann bleiben, wenn es spezifisch für die Karte ist
     >
       <Image
         src={`/kochrezepte/images/${recipe.image}`}
@@ -32,7 +27,10 @@ const RecipeCard: React.FC<RecipeCardProps> = ({ recipe }) => {
         width="100%"
       />
       <VStack p={padding} align="start" spacing={2}>
-        <Text fontWeight="bold" fontSize={fontSize} color="brand.600">
+        <Text
+          fontWeight="bold" // Kann bleiben oder Teil von .card-title in SCSS sein
+          fontSize={fontSize} // Kann bleiben oder Teil von .card-title in SCSS sein
+        >
           {recipe.name}
         </Text>
         <Badge colorScheme="orange" fontSize={{ base: 'xs', md: 'sm' }}>
