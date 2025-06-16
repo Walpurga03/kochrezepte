@@ -593,5 +593,45 @@
       "Soße ca.5min wieder erwärmem."
     ],
     "image": "shepardsPie.png"
+  },
+  {
+    "id": "9",
+    "name": "Kaiser-Schmarrn",
+    "preparationTime": 30,
+    "ingredients": [
+      {
+        "name": "Eier",
+        "amount": 8,
+        "unit": "Stk"
+      },
+      {
+        "name": "Mehl",
+        "amount": 8,
+        "unit": "Stk"
+      },
+      {
+        "name": "Milch",
+        "amount": 250,
+        "unit": "ml"
+      },
+      {
+        "name": "Zucker",
+        "amount": 6,
+        "unit": "EL"
+      },
+       {
+        "name": "Butter",
+        "amount": 25,
+        "unit": "g"
+      }
+        
+    ],
+    "instructions": [
+      "Eier trennen und Eiweiß mit Zucker steif schlagen.",
+      "Eigelb mit Mehl und Milch gut verrühren.",
+      "Eischnee vorsichtig unterheben.",
+      "In einer großen Pfanne Butter erhitzen und den Teig hineingeben."
+    ],
+    "image": "kaiserSchmarrn.jpeg"
   }
 ]
