@@ -633,5 +633,127 @@
       "In einer großen Pfanne Butter erhitzen und den Teig hineingeben."
     ],
     "image": "kaiserSchmarrn.jpeg"
+  },
+  {
+    "id": "10",
+    "name": "Scheiterhaufen",
+    "preparationTime": 45,
+    "ingredients": [
+      {
+        "name": "Zopf",
+        "amount": 1,
+        "unit": "Stk"
+      },
+      {
+        "name": "Milch",
+        "amount": 500,
+        "unit": "ml"
+      },
+      {
+        "name": "Eier",
+        "amount": 2,
+        "unit": "Stk"
+      },
+      {
+        "name": "Zucker",
+        "amount": 4,
+        "unit": "EL"
+      },
+       {
+        "name": "Mandeln gemahlen",
+        "amount": 4,
+        "unit": "EL"
+      },
+      {
+        "name": "Zimt",
+        "amount": 1,
+        "unit": "TL"
+      },
+      {
+        "name": "Äpfel",
+        "amount": 2,
+        "unit": "Stk"
+      },
+      {
+        "name": "Butter",
+        "amount": 50,
+        "unit": "g"
+      }
+        
+    ],
+    "instructions": [
+      "Zopf in Würfel schneiden,",
+      "Milch, Eier, Zucker, Mandeln und Zimt gut verrühren.",
+      "Äpfel grob raspeln.",
+      "Zopf, Äpfel und die Milch-Ei-Mischung durchmischen.",
+      "Auflafform mit Butter einfetten und die Mischung hineingeben.",
+      "Butterflocken darauf verteilen.",
+      "Im Backrohr bei 180°C ca. 30 Minuten backen."
+
+    ],
+    "image": "scheiterhaufen.jpg"
+  },
+   {
+    "id": "11",
+    "name": "Kartoffeln-Zucchini-Puffer",
+    "preparationTime": 45,
+    "ingredients": [
+      {
+        "name": "Kartoffeln mehlig",
+        "amount": 800,
+        "unit": "gr"
+      },
+      {
+        "name": "Zucchini",
+        "amount": 300,
+        "unit": "gr"
+      },
+      {
+        "name": "Eier",
+        "amount": 1,
+        "unit": "Stk"
+      },
+      {
+        "name": "Mehl",
+        "amount": 3,
+        "unit": "EL"
+      },
+       {
+        "name": "Salz/Pfeffer",
+        "amount": 1,
+        "unit": "TL"
+      },
+      {
+        "name": "Öl",
+        "amount": 1,
+        "unit": "EL"
+      },
+      {
+        "name": "Schnittlauch",
+        "amount": 2,
+        "unit": "EL"
+      },
+      {
+        "name": "Topfen",
+        "amount": 250,
+        "unit": "gr"
+      },
+       {
+        "name": "Schwarzwälder Schinken",
+        "amount": 150,
+        "unit": "gr"
+      }
+        
+    ],
+    "instructions": [
+      "Kartoffeln und Zucchini grob reiben und gut ausdrücken.",
+      "Mit Ei, Mehl, Salz/Pfeffer und Schnittlauch vermischen.",
+      "In einer Pfanne Öl erhitzen und kleine Puffer formen und von beiden Seiten goldbraun anbraten.",
+      "Topfen mit Salz/Pfeffer würzen und als Dip servieren.",
+      "Schwarzwälder Schinken dazu reichen."
+     
+
+    ],
+    "image": "kartoffelnzucchini-puffer.webp"
   }
 ]
